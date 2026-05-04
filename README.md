@@ -1,1 +1,1 @@
-# ​"ShaForge exists to eliminate the gap between mobile hardware and professional production. It is a self-healing, hardware-aware, and entirely sovereign environment for those who build the future from their pocket."
+# ​ShaForge exists to eliminate the gap between mobile hardware and professional production. It is a self-healing, hardware-aware, and entirely sovereign environment for those who build the future from their pocket."
