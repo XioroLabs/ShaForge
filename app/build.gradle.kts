@@ -13,7 +13,7 @@ android {
         minSdk = 33 
         targetSdk = 35
         versionCode = 1
-        versionName = "0.1.0-alpha"
+        versionName = "0.1.0"
     }
 
     buildFeatures { compose = true }
@@ -30,8 +30,6 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2024.10.01"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.material3:material3")
-    
-    // Shizuku & AVF
     implementation("dev.rikka.shizuku:api:13.1.5")
     compileOnly("android.system.virtualization:framework:1.0.0")
 }
