@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "name": "ShaForge",
+  "description": "Next-generation mobile-native build orchestration leveraging Android Virtualization Framework (AVF) and pKVM to empower developers with sustainable, low-cost hardware.",
+  "owner": {
+    "name": "XioroLabs",
+    "github": "XioroLabs",
+    "twitter": "XioroLabs",
+    "email": "contact@xiorolabs.io"
+  },
+  "funding": {
+    "goals": [
+      {
+        "id": "hardware-profiling-lab",
+        "amount": 2500,
+        "currency": "USD",
+        "description": "Acquisition of diverse ARM SoC testbeds (Snapdragon Gen 3/4, MediaTek Dimensity, Google Tensor) to build the industry's first open-source thermal-aware scheduling database for mobile-native compilation."
+      },
+      {
+        "id": "pvm-optimization",
+        "amount": 5000,
+        "currency": "USD",
+        "description": "Research and development into low-overhead pKVM memory management specifically for high-memory-pressure tasks like Android Kernel builds and LLM quantization on mobile."
+      }
+    ],
+    "methods": [
+      {
+        "type": "github",
+        "url": "https://github.com/sponsors/XioroLabs"
+      },
+      {
+        "type": "polar",
+        "url": "https://polar.sh/XioroLabs"
+      },
+      {
+        "type": "opencollective",
+        "url": "https://opencollective.com/shaforge"
+      }
+    ]
+  },
+  "impact": {
+    "category": "Developer Tooling / Infrastructure",
+    "target_audience": "Mobile-first developers, students in emerging markets, and hardware enthusiasts.",
+    "sustainability_model": "Zero-cost CI/CD scaling using GitHub Actions combined with on-device hardware optimization."
+  }
+}
